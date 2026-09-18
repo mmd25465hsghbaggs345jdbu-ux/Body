@@ -1,0 +1,2 @@
+# Bypass Jekyll processing on GitHub Pages
+# This ensures files and folders starting with _ or standard assets are served correctly
