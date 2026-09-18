@@ -1,0 +1,6 @@
+{
+  "name": "منوی دیجیتال آبمیوه و بستنی بادیگارد",
+  "description": "منوی دیجیتال ویترینی، لیست قیمت‌ها و پنل اختصاصی مدیریت محصولات و قیمت‌های آبمیوه و بستنی بادیگارد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
